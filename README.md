@@ -1,5 +1,4 @@
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+TITLE: Low-level-programming (Низкоуровневое программирование)
+#TITLE: Low-level-programming (Низкоуровневое программирование)
  
 * Описание
   Курс рассказывает о языках программирования в контексте построения вычислительных систем.
